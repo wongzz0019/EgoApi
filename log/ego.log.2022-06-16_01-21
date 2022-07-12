@@ -1,0 +1,3 @@
+2022-06-16 01:21:43,561 INFO [root] [utils.py(<module>:31)] - 在utils中，测试日志会不会打印
+2022-06-16 01:21:43,577 INFO [root] [__init__.py(<module>:7)] - 测试在api中是否能打印日志
+2022-06-16 01:21:43,577 INFO [root] [__init__.py(<module>:7)] - 测试在api中是否能打印日志
